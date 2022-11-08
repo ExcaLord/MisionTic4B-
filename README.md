@@ -1,5 +1,9 @@
 # Reto # 1
 
+Aplicacion completada
+<br>
+![screen-20221108-155338](https://user-images.githubusercontent.com/106365367/200674762-24608bdc-0de9-4879-80b2-fd51b1002abc.gif) 
+
 Proyecto base para el primer reto
 
 El código incluye comentarios que explican la estructura del proyecto y los puntos en los que se tiene que trabajar están marcados con un TODO. 
